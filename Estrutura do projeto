@@ -1,0 +1,16 @@
+conecta-dashboard/
+├─ index.html
+├─ package.json
+├─ vite.config.js
+├─ tailwind.config.js
+├─ postcss.config.js
+├─ public/
+│  ├─ manifest.webmanifest
+│  ├─ icon-192.png
+│  ├─ icon-512.png
+│  └─ sw.js
+├─ src/
+│  ├─ main.jsx
+│  ├─ App.jsx
+│  └─ styles.css
+└─ README.md
